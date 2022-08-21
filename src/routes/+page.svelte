@@ -61,9 +61,3 @@
 			</div>
 		</Backdrop>
 {/if}
-
-<style>
-	#add-movie-input input {
-		@apply w-full;
-	}
-</style>
